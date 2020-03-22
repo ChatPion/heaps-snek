@@ -1,1 +1,3 @@
 = heaps-snek
+
+Snake game using the Heaps.io engine.
