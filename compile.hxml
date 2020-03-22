@@ -1,0 +1,5 @@
+-lib heaps
+-lib hlsdl
+-hl hello.hl
+-D resourcesPath=res
+-main Main
